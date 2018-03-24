@@ -45,6 +45,23 @@
 @import "components/treeview";
 @import "components/users-list";
 
+// PAGES
+//--------------------------------------------------------
+// @import "errors";
+@import "pages/invoice";
+@import "pages/lockscreen";
+@import "pages/auth";
+@import "pages/mailbox";
+@import "pages/profile";
+
+// Plugins
+//--------------------------------------------------------
+@import "plugins/bootstrap-social";
+@import "plugins/datepicker";
+@import "plugins/fullcalendar";
+@import "plugins/select2";
+
 // MISCELLANEOUS
 //--------------------------------------------------------
 @import "miscellaneous/miscellaneous";
+@import "miscellaneous/print";
